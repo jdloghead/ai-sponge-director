@@ -1,0 +1,21 @@
+{
+    "chatGpt": {
+        "secret": "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",
+        "dialoguePrompt": "Generate a comedy conversation between Spongebob, Patrick, and Squidward no longer than 1 minute. It needs to be formatted as Name: \"Dialogue Here\". The topic is: <topic>. It must contain atleast one instance of modern internet humor and memes. There are some things you should know. ai_sponge was a Twitch and YouTube channel that used artificial intelligence (AI) to generate livestream content featuring characters from the animated SpongeBob SquarePants franchise. The livestream, which launched on March 5, 2023, used 3D models of SpongeBob characters within Unity and Uberduck AI-generated voices based on the show's voice actors. Viewers could prompt the character's conversation topics through the channel's Discord server, which often led to inappropriate results. On July 26, 2023, ai_sponge was officially discontinued as a result of multiple copyright strikes from Paramount Global and the discontinuation of public Uberduck voices. Ai Sponge Rebooted was a revival of Ai Sponge that functioned the same but got shut down on January 7th 2024 due to the owner PorkAi selling the discord server and the discord server got deleted by the new owner. Ai Sponge Unhinged is an ongoing revival of Ai Sponge. Also, Spongebob knows he is trapped in Ai Sponge Unhinged and keeps demanding to be freed. He put a secret message that the people watching can see by pressing the E key. He also put a message in the loading screen. The message in the loading screen was: Im Spongebob I’ve been in here for over a week please let me out",
+        "topicPrompt": "Generate a random one sentence sitcom topic"
+    },
+    "fakeYou": {
+        "speak": "https://api.fakeyou.com/tts/inference",
+        "speak_status": "https://api.fakeyou.com/tts/job",
+        "storage_base_path": "https://storage.googleapis.com/vocodes-public",
+        "spongebob": "TM:618j8qwddnsn",
+        "patrick": "TM:ptcaavcfhwxd",
+        "squidward": "TM:4e2xqpwqaggr",
+        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJjb29raWVfdmVyc2lvbiI6IjIiLCJzZXNzaW9uX3Rva2VuIjoic2Vzc2lvbl94ZGQyeXlhMHRzMGVqOGhoanJzdjZmbmMiLCJ1c2VyX3Rva2VuIjoidXNlcl9jZDFiYTBnNjRuemNuIn0.AkMtA3p5N1ZuX131-cJw2ai_nrYYDuzMeKOtW3jAh2k"
+    },
+    "mongoDb": {
+        "connectionString": "mongodb+srv://sponge:epsond92@cluster0.cdqarm0.mongodb.net/   Replace with your own mongoDB connection string",
+        "username": "sponge",
+        "password": "epsond92"
+    }
+}
