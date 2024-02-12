@@ -94,7 +94,7 @@ var generateStory = async () => {
                     "Authorization": "Bearer " + config.chatGpt.secret
                 },
                 body: JSON.stringify({
-                    model: "gpt-4-1106-preview",
+                    model: "gpt-3.5-turbo",
                     messages: [{
                         role: "user",
                         content: config.chatGpt.dialoguePrompt.replace("<topic>", results[0].topic)
