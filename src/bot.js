@@ -1,4 +1,4 @@
-const token = "MTE5MzkzODk2Mjg5NzcwMjk3Mw.GFIL83.7_5TXsVr1wThbNtHJ7mveK3axGffxI3fsykvPo";
+const token = "TOKENHERE";
 
 const {Client, GatewayIntentBits} = require("discord.js");
 const client = new Client({
