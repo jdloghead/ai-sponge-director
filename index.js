@@ -5,7 +5,7 @@ const cron = require("node-cron");
 
 //Import functions
 const storyController = require("./src/storyController");
-const index = require("./src/bot");
+const bot = require("./src/bot");
 
 const port = 3001;
 
