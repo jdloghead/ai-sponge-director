@@ -1,2 +1,1 @@
-ai_director
-The main server.
+The Director for Ai Sponge Unhinged.
